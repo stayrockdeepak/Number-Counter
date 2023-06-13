@@ -1,0 +1,27 @@
+body{
+  background: aquamarine;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+.wrapper{
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 20px;
+}
+.btn{
+  height: 60%;
+    width: 100%;
+    border-radius: 10px;
+    background: antiquewhite;
+    margin-top: 10px;
+}
+.reset{
+  margin: auto;
+  width: 200px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  border-radius: 20px;
+  justify-content: center;
+  background-color: burlywood;
+}
